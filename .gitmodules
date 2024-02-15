@@ -4,3 +4,6 @@
 [submodule "TypeTester"]
 	path = TypeTester
 	url = https://github.com/Sridhar1030/TypeTester-
+[submodule "Weather"]
+	path = Weather
+	url = https://github.com/Sridhar1030/Weather
